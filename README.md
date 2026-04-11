@@ -59,6 +59,11 @@ Bash
 python -m venv venv
 source venv/bin/activate     # On Windows: venv\Scripts\activate
 
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+
 📈 Future Roadmap
 
 [ ] Hybrid Search: Integrating BM25 keyword matching with semantic vector search for better "niche" title retrieval.
@@ -70,7 +75,3 @@ source venv/bin/activate     # On Windows: venv\Scripts\activate
 🤝 Contributions
 This project is open-source. As a contributor to the Bindu framework, I value modular and well-documented code. Feel free to open an issue or submit a pull request!
 
-Install dependencies:
-
-Bash
-pip install -r requirements.txt

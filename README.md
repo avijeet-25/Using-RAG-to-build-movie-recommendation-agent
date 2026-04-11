@@ -69,6 +69,7 @@ source venv/bin/activate     # On Windows: venv\Scripts\activate
 
 🤝 Contributions
 This project is open-source. As a contributor to the Bindu framework, I value modular and well-documented code. Feel free to open an issue or submit a pull request!
+
 Install dependencies:
 
 Bash

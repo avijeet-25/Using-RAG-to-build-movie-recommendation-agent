@@ -1,4 +1,5 @@
 AI Movie Recommendation Agent: High-Scale RAG Pipeline
+
 A production-ready recommendation system leveraging Retrieval-Augmented Generation (RAG) and Agentic Workflows to provide grounded, context-aware movie suggestions. This project focuses on optimizing retrieval quality and latency when handling high-volume datasets (45,000+ records).
 
 🚀 Overview

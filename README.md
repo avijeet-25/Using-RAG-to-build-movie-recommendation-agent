@@ -49,7 +49,10 @@ Clone the repository:
 
 Bash
 git clone https://github.com/avijeet-25/Using-RAG-to-build-movie-recommendation-agent.git
+
 cd Using-RAG-to-build-movie-recommendation-agent
+
+
 Create a virtual environment:
 
 Bash

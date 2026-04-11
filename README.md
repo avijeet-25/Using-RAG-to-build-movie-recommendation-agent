@@ -57,9 +57,10 @@ Create a virtual environment:
 
 Bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate     # On Windows: venv\Scripts\activate
 
 📈 Future Roadmap
+
 [ ] Hybrid Search: Integrating BM25 keyword matching with semantic vector search for better "niche" title retrieval.
 
 [ ] Memory Persistence: Adding a PostgreSQL layer to remember user preferences across sessions.

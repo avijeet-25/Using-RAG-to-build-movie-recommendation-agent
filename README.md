@@ -55,6 +55,16 @@ Create a virtual environment:
 Bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+📈 Future Roadmap
+[ ] Hybrid Search: Integrating BM25 keyword matching with semantic vector search for better "niche" title retrieval.
+
+[ ] Memory Persistence: Adding a PostgreSQL layer to remember user preferences across sessions.
+
+[ ] Advanced Evaluation: Integrating CI/CD unit tests using DeepEval to prevent hallucination regressions.
+
+🤝 Contributions
+This project is open-source. As a contributor to the Bindu framework, I value modular and well-documented code. Feel free to open an issue or submit a pull request!
 Install dependencies:
 
 Bash

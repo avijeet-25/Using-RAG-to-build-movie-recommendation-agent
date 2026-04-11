@@ -15,15 +15,13 @@ Hallucination Mitigation: Using the RAG Triad (Faithfulness, Relevancy, and Cont
 🛠️ Tech Stack
 Orchestration: LangChain / LangGraph
 
-LLM: Google Gemini API (or OpenAI GPT-4o)
+LLM: Mistral 7B instruct v0.1
 
-Vector Database: ChromaDB / Pinecone
+Vector Database: ChromaDB 
 
 Data Processing: Pandas, NumPy, Scikit-learn
 
 Evaluation: DeepEval / LangSmith (Tracing)
-
-Deployment: Streamlit
 
 🏗️ Architecture
 The system operates through a decoupled multi-stage pipeline:
